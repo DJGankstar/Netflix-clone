@@ -11,7 +11,7 @@ import info_icon from '../../assets/info_icon.png';
 // components
 import Navbar from '../../components/Navbar/Navbar'
 import TitleCards from '../../components/TitleCards/TitleCards';
-import Footer from '../../components/Navbar/Footer/Footer';
+import Footer from '../../components/Footer/Footer';
 
 
 const Home = () => {
